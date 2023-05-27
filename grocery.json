@@ -1,0 +1,132 @@
+[
+    {
+      "name": "Apple",
+      "image": "apple.jpg",
+      "price": 45
+    },
+    {
+      "name": "Jackfruit",
+      "image": "jackfruit.jpg",
+      "price": 92
+    },
+    {
+      "name": "Strawberry",
+      "image": "strawberry.jpg",
+      "price": 67
+    },
+    {
+      "name": "Bread",
+      "image": "bread.jpg",
+      "price": 28
+    },
+    {
+      "name": "Kiwi",
+      "image": "kiwi.jpg",
+      "price": 73
+    },
+    {
+      "name": "Tomato",
+      "image": "tomato.jpg",
+      "price": 52
+    },
+    {
+      "name": "Broccoli",
+      "image": "broccoli.jpg",
+      "price": 84
+    },
+    {
+      "name": "Milk",
+      "image": "milk.jpg",
+      "price": 38
+    },
+    {
+      "name": "Watermelon",
+      "image": "watermelon.jpg",
+      "price": 62
+    },
+    {
+      "name": "Carrot",
+      "image": "carrot.jpg",
+      "price": 79
+    },
+    {
+      "name": "Mushroom",
+      "image": "mushroom.jpg",
+      "price": 57
+    },
+    {
+      "name": "Chips",
+      "image": "chips.jpg",
+      "price": 42
+    },
+    {
+      "name": "Nuts",
+      "image": "nuts.jpg",
+      "price": 95
+    },
+    {
+      "name": "Cooldrink",
+      "image": "cooldrink.jpg",
+      "price": 30
+    },
+    {
+      "name": "Onions",
+      "image": "onions.jpg",
+      "price": 64
+    },
+    {
+      "name": "Coriander",
+      "image": "coriander.jpg",
+      "price": 88
+    },
+    {
+      "name": "Orange",
+      "image": "orange.jpg",
+      "price": 71
+    },
+    {
+      "name": "Corn",
+      "image": "corn.jpg",
+      "price": 54
+    },
+    {
+      "name": "Peaches",
+      "image": "peaches.jpg",
+      "price": 96
+    },
+    {
+      "name": "Dragon Fruit",
+      "image": "dragonfruit.jpg",
+      "price": 82
+    },
+    {
+      "name": "Pineapple",
+      "image": "pineapple.jpg",
+      "price": 63
+    },
+    {
+      "name": "Eggs",
+      "image": "eggs.jpg",
+      "price": 47
+    },
+    {
+      "name": "Potato",
+      "image": "potato.jpg",
+      "price": 74
+    },
+    {
+      "name": "Pomegranate",
+      "image": "pomegranate.jpg",
+      "price": 56
+    },
+    {
+      "name": "Radish",
+      "image": "radish.jpg",
+      "price": 89
+    },
+    {
+      "name": "Honey",
+      "image": "honey.jpg",
+      "price": 35
+    }
+]  
